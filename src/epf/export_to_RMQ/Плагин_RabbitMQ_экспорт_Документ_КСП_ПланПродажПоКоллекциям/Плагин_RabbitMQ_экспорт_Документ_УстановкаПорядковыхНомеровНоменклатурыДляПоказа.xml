@@ -6,21 +6,21 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>46d7e83e-bbaa-40fe-b1f3-389e5c2187ae</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.Плагин_RabbitMQ_экспорт_Документ_КСП_ПланПродажПоКоллекциям" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.Плагин_RabbitMQ_экспорт_Документ_УстановкаПорядковыхНомеровНоменклатурыДляПоказа" category="Object">
 				<xr:TypeId>5c334290-4b10-4f71-96f0-078403b30a55</xr:TypeId>
 				<xr:ValueId>d976d51a-0963-40de-8e93-0ae2e66d3cb8</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Плагин_RabbitMQ_экспорт_Документ_КСП_ПланПродажПоКоллекциям</Name>
+			<Name>Плагин_RabbitMQ_экспорт_Документ_УстановкаПорядковыхНомеровНоменклатурыДляПоказа</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Плагин rabbit m q экспорт документ КСП план продаж по коллекциям</v8:content>
+					<v8:content>Плагин rabbit m q экспорт документ установка порядковых номеров номенклатуры для показа</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<DefaultForm>ExternalDataProcessor.Плагин_RabbitMQ_экспорт_Документ_КСП_ПланПродажПоКоллекциям.Form.Форма</DefaultForm>
+			<DefaultForm>ExternalDataProcessor.Плагин_RabbitMQ_экспорт_Документ_УстановкаПорядковыхНомеровНоменклатурыДляПоказа.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>

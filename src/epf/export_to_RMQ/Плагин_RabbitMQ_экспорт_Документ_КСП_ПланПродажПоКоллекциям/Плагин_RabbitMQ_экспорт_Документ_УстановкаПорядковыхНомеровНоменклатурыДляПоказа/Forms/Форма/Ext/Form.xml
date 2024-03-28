@@ -16,7 +16,7 @@
 	<Attributes>
 		<Attribute name="Объект" id="1">
 			<Type>
-				<v8:Type>cfg:ExternalDataProcessorObject.Плагин_RabbitMQ_экспорт_Документ_КСП_ПланПродажПоКоллекциям</v8:Type>
+				<v8:Type>cfg:ExternalDataProcessorObject.Плагин_RabbitMQ_экспорт_Документ_УстановкаПорядковыхНомеровНоменклатурыДляПоказа</v8:Type>
 			</Type>
 			<MainAttribute>true</MainAttribute>
 		</Attribute>
