@@ -14,22 +14,12 @@
 				</Picture>
 				<ExtendedTooltip name="ФормаВыполнитьЭкспортРасширеннаяПодсказка" id="2"/>
 			</Button>
-			<Button name="ФормаВыполнитьЭкспортВерсия2" id="5">
-				<Type>CommandBarButton</Type>
-				<CommandName>Form.Command.ВыполнитьЭкспортВерсия2</CommandName>
-				<ExtendedTooltip name="ФормаВыполнитьЭкспортВерсия2РасширеннаяПодсказка" id="6"/>
-			</Button>
 		</ChildItems>
 	</AutoCommandBar>
 	<Events>
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
-		<Button name="ВыгрузитьПеречисления" id="3">
-			<Type>UsualButton</Type>
-			<CommandName>Form.Command.ВыгрузитьПеречисления</CommandName>
-			<ExtendedTooltip name="ВыгрузитьПеречисленияРасширеннаяПодсказка" id="4"/>
-		</Button>
 		<LabelField name="Версия" id="7">
 			<DataPath>Версия</DataPath>
 			<ContextMenu name="ВерсияКонтекстноеМеню" id="8"/>
@@ -39,7 +29,7 @@
 	<Attributes>
 		<Attribute name="Объект" id="1">
 			<Type>
-				<v8:Type>cfg:ExternalDataProcessorObject.Выгрузка_из_ЕРП</v8:Type>
+				<v8:Type>cfg:ExternalDataProcessorObject.Выгрузка_из_БазыПоказов</v8:Type>
 			</Type>
 			<MainAttribute>true</MainAttribute>
 		</Attribute>
